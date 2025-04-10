@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { ArrowLeft, Sun, Moon } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
-import teamImage from '../assets/IMG_8445 2.jpg';
+import teamImage from '../assets/IMG_8445 2.jpeg';
 
 
 const AboutPage: React.FC = () => {
